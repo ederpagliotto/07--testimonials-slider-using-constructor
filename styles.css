@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+   }
+
+   .main-text {
+       color: blanchedalmond;
+   }
+
+.container {
+    display: block;
+    margin: 20px 20px 20px 20px;
+    align-items: center;
+   }
+
+.customer-data {
+    background: transparent!important;
+    color:white;
+    border:0.05rem solid white;
+    padding: 20px;
+   }
+
